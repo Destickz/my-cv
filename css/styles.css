@@ -23,6 +23,8 @@ h2 {
 h3 {
   font-family: 'Montserrat', sans-serif;
   color: #11999E;
+  margin: auto;
+  width: 50%;
 }
 
 p {
@@ -80,20 +82,15 @@ a:hover {
 
 .top-cloud {
   position: absolute;
-  width: 13%;
-  height: auto;
-  right: 260px;
+  right: 250px;
   top: 40px;
 }
 
 .bottom-cloud {
   position: absolute;
-  width: 13%;
-  height: auto;
   left: 250px;
   bottom: 300px;
 }
-
 
 .Devloper {
   width: 25%;
